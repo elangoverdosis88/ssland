@@ -14,7 +14,7 @@ A lightweight Shadowsocks multi-user web-frontend.
 ### Install
 
 ```bash
-git clone https://github.com/laobubu/ssland.git
+git clone https://github.com/elangoverdosis88/ssland.git
 cd ssland
 ./install.sh
 ```
